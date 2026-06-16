@@ -1,2 +1,9 @@
-# Skills_Claude_Code
-Skills to improve Claude's performance while reducing token consumption. These skills optimize context management, response efficiency, task execution, and memory utilization, enabling faster, more accurate, and more cost-effective interactions across complex workflows.
+# Skills Claude - WEG
+
+Copie a pasta `.agents/skills/` para seu projeto.
+
+## Skills disponíveis:
+- caveman - respostas curtas (70% menos tokens)
+- handoff - documentação automática
+- caveman-commit - mensagens de commit
+- caveman-review - code review
