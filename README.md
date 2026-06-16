@@ -1,4 +1,4 @@
-# Skills Claude - WEG
+# Skills Claude 
 
 Copie a pasta `.agents/skills/` para seu projeto.
 
