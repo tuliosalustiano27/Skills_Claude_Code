@@ -1,6 +1,6 @@
 @echo off
 echo ========================================
-echo   SETUP CLAUDE CODE - WEG
+echo   SETUP CLAUDE CODE
 echo   Economia de 70%% tokens
 echo ========================================
 echo.
